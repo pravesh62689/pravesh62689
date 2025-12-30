@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:praveshrathore2002@gmail.com">praveshrathore2002@gmail.com</a> •
   <a href="https://www.linkedin.com/in/pravesh-rathore-a936ba171" target="_blank">LinkedIn</a> •
-  <a href="https://www.hackerrank.com/profile/praveshrathore21" target="_blank">HackerRank</a> •
   <a href="https://github.com/pravesh62689" target="_blank">GitHub</a>
 </p>
 

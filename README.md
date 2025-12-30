@@ -99,18 +99,4 @@ I'm a Full Stack Developer with **1+ years of hands-on experience** building pro
 
 ---
 
-## GitHub stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravesh62689&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-<p>&nbsp;</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pravesh62689&show_icons=true&locale=en" alt="stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravesh62689" alt="streak" />
-</p>
